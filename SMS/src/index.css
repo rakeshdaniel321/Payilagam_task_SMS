@@ -1,0 +1,47 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#main{
+  border: 3px solid;
+  margin: 30px;
+}
+#SMS-titile{
+   background-color: black;
+   color: white;
+   padding: 10px;
+   text-align: center;
+}
+#product-contanier{
+  margin-top: 180px;
+  /* border: 1px solid; */
+  display: flex;
+  justify-content: center;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+section{
+  background-color: black;
+  color: white;
+}
+#len{
+font-size: 20px;
+font-weight: 700;
+}
+#product-thead{
+  border:2px solid black;
+  margin: 40px;
+ 
+}
+.table-row{
+  border: 2px solid black;
+  padding: 20px;
+  margin: 20px;
+  color: blue;
+}
+.table-cloumn{
+  border: 2px solid blue ;
+  padding: 20px;
+  margin: 20px;
+}
